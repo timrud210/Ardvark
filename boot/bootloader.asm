@@ -7,7 +7,7 @@
 use16
 org 07C00h
 
-%include "/home/tim/Ardvark/boot/tools"
+%include "/home/tim/Ardvark/boot/tools.asm"
 
 clear_screen
 
