@@ -7,5 +7,9 @@
 use16
 org 07C00h
 
-%include "~/Ardvark/boot/tools"
+%include "/home/tim/Ardvark/boot/tools"
 
+clear_screen
+
+times 510 - ($ - $$) db 0
+dw 0AA55h
