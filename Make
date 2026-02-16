@@ -1,0 +1,8 @@
+# Ardvark
+#
+# by: Timur Rudzinsky (timrud210@gmail.com)
+#
+# Make file for bash
+
+chmod +x ~/Ardvark/boot/Make
+~/Ardvark/boot/Make
