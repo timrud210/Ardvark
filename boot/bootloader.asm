@@ -7,5 +7,5 @@
 use16
 org 07C00h
 
-%include "~/Ardvark-main/boot/tools"
+%include "~/Ardvark/boot/tools"
 
