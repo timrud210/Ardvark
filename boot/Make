@@ -1,0 +1,7 @@
+# Ardvark
+#
+# by: Timur Rudzinsky (timrud210@gmail.com)
+#
+# Make file for bash
+
+nasm -f bin ~/Ardvark/boot/bootloader.asm -o ~/Ardvark/boot/bootloader.o
